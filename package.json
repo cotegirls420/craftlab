@@ -1,7 +1,7 @@
 {
   "name": "craftlab-foundation",
   "private": true,
-  "version": "0.1.0",
+  "version": "0.2.0",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -10,11 +10,7 @@
   "dependencies": {
     "next": "14.2.35",
     "react": "18.3.1",
-    "react-dom": "18.3.1"
-  },
-  "devDependencies": {
-    "typescript": "5.6.2",
-    "@types/react": "18.3.5",
-    "@types/node": "22.7.4"
+    "react-dom": "18.3.1",
+    "@supabase/supabase-js": "2.56.0"
   }
 }
